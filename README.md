@@ -5,7 +5,7 @@
 
 - 🌐 Acesse meu site [We Comply](https://wecomply.com.br/) e confira nossos [serviços](https://wecomply.com.br/servicos);
 
-- 📫 Entre em comigo por [E-mail](mailto:contato@wecomply.com.br), [LinkedIn](https://www.linkedin.com/company/wecomplybr/), [Instagram](https://www.instagram.com/wecomplybr/) ou pelo meu [site](https://wecomply.com.br/contato);
+- 📫 Entre em comigo por [E-mail](mailto:contato@wecomply.com.br), [LinkedIn](https://www.linkedin.com/company/wecomplybr/), [Instagram](https://www.instagram.com/wecomplybr/) ou pelo meu [site](https://wecomply.com.br/);
 - 💬 Pergunte-me sobre qualquer coisa pois terei o maior prazer em respondê-los;
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=wecomply)
